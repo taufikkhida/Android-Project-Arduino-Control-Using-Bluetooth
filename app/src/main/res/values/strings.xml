@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Arduino Control</string>
+    <string name="grip">Grip</string>
+    <string name="btnSetup">Setup</string>
+    <string name="title">Arduino Control</string>
+    <string name="title_activity_setup">SetupActivity</string>
+    <string name="title2">Bluetooth Devices</string>
+    <string name="btnRefresh">Refresh</string>
+    <string name="txtConnected">Connected Device :</string>
+    <string name="txtDevices">No Device Connected</string>
+    <string name="swStart">Start</string>
+    <string name="txtLog">Log</string>
+    <string name="btnRight">R</string>
+    <string name="btnBackward">B</string>
+    <string name="btnLeft">L</string>
+    <string name="btnForward">F</string>
+    <string name="txtParam1">Param 1</string>
+    <string name="txtParam2">Param 2</string>
+    <string name="txtParam3">Param 3</string>
+    <string name="txtParam4">Param 4</string>
+    <string name="txtParam5">Param 5</string>
+    <string name="txtParam6">Param 6</string>
+</resources>
